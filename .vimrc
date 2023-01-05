@@ -76,7 +76,7 @@ Plugin 'preservim/nerdtree'
 
 call plug#end()
 
-colorscheme gruvbox
+colorscheme peachpuff
 let g:gruvbox_contrast_dark = "hard"
 let NERDTreeQuitOnOpen=1
 
